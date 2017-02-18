@@ -10,7 +10,7 @@ the basic building blocks of computer science including
 - Algorithms (sorting, aggregating, step-by-step problem solutions)
 - Control Structures (decision-making, looping, and branching)
 
-##Initiation
+## Initiation
 It is impotant that you have the right team if you are going to teach the
 students how to code. Prior to the formal coding club starting we have
 participated in lots of different learn to code events like Hour of Code.
@@ -18,7 +18,7 @@ These events can be tought and facilitated by technical people who don't
 necessarily come from a software background. These events showed us
 the need for defining what you want to be.
 
-###Teachers
+### Teachers
 Before initiating the club you need to decide who will be helping
 teach/facilitate. If you have a professional software engineer then
 you may want to skew the club to things they are comfortable and interested in.
@@ -33,7 +33,7 @@ is critical and it is very hard to have rotating technical leads unless
 you have a rigid curriculum.  Letting a single technical lead faciliate
 the club allows the club to be shaped by the students.
 
-###Students
+### Students
 There are a lot of considerations when it comes to shaping the participation
 in the club.  Early in our club we just threw it out as a possibility and we
 found some things that should be predictable.
@@ -50,7 +50,7 @@ Some years we have totally opened up the curriculum and let the creativity
 of the kids drive the project. Other times it is best to be focused and
 disciplined to avoid endless tinkering with little learning.
 
-###Style
+### Style
 You have to decide the style of the club. We have tried it all:
 - Lecture Style: Each class is a lecture about a topic followed by some
 practical work
@@ -74,9 +74,9 @@ their own. A good use case for that was the Limbeck Engineering submersible
 project: ![Limbeck Engineering](images/mentoring.jpg)
 
 
-##Tools of the Trade
+## Tools of the Trade
 
-###Blocks
+### Blocks
 Programming with block based tools is a great way to introduce common
 students to computer thinking. Early on this was how the Freeport
 Coding Club started. These tools are great because they are so
@@ -97,12 +97,12 @@ less and less important to review that prior to jumping into programming.
 If you have a club that is more focused on entrepreneurial learning
 and broader technology then blocks may be a good tool.
 
-###Arduino and Raspberry Pi
+### Arduino and Raspberry Pi
 Some project ideas require some electronics or 'Internet of Things'.
 Depending on the focus of the group we have Raspeberry Pi, Arduino,
 and basic elctronics kits available.
 
-###Programming Languages
+### Programming Languages
 At some point if you want to learn to 'code' you need to start using modern
 programming languages.  We have found that jumping in day 0 using a powerful
 but accessable language has been the best approach for our goals. This
@@ -167,7 +167,7 @@ Here are our assessments of a few options:
         - Compicated syntax for simple tasks
         - Poor built in graphics support etc
 
-##Lessons
-###Intro to Programming
+## Lessons
+### Intro to Programming
 I start every year with a very simiar suite of lessons aimed at teaching the
 basics of programming.  Goal is to write code the first day.
