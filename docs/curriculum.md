@@ -71,7 +71,7 @@ students who have some experience or with extremely focused and motivated
 students. We have done this with mixed results but in concept it is our
 desire to get the students to a point they can take on bigger projects on
 their own. A good use case for that was the Limbeck Engineering submersible
-project: ![Limbeck Engineering]("images/mentoring.jpg")
+project: ![Limbeck Engineering](images/mentoring.jpg)
 
 
 ##Tools of the Trade
