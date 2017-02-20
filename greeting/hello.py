@@ -1,4 +1,4 @@
 # hello.py
 
 name = input("Type your name: ")
-print('Hi', name)
+print('Hi {}'.format(name))
