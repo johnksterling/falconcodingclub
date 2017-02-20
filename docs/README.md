@@ -17,7 +17,7 @@ the basic building blocks of computer science including
 *   102:  [How the Internet Works](102.md)
 *   110:  [Intro to Control Structures](110.md)
 *   120:  [Intro to Data Structures](120.md)
-*   140:  [Python and Geometry](#)
+*   140:  [Python and Geometry](140.md)
 *   141:  [Intro to Event Driven Programming](#)
 *   150:  [Agorithms:  Sorting and Speed](#)
 *   151:  [Encryption Algorithms](#)
