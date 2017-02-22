@@ -42,7 +42,8 @@ or creating an app - or are you just trying to teach fundimentals?
 ![2016 Language Scores](https://static1.squarespace.com/static/51361f2fe4b0f24e710af7ae/t/56b1187d4c2f85efc5598bb1/1454446752995/?format=1500w)
 
 Here are our assessments of a few options:
-1)   Python:
+
+1.   Python:
     *   **Pros**:
         - Fun and easy to use
         - Well accepted standards, but flexible functional versus OO
@@ -52,7 +53,7 @@ Here are our assessments of a few options:
         - Not really feasible without a laptop
         - Need a teacher familiar with 'Pythonic' programming
         - Whitespace can trip up new programmers
-2)   Ruby
+2.   Ruby
     *   **Pros**:
         - Fun and easy to use
         - 100% Object Oriented if you like that sort of thing
@@ -60,7 +61,7 @@ Here are our assessments of a few options:
     *   **Cons**:
         - Lots of ways to do one thing
         - Not pervasive marketability
-3)  Javascript
+3.  Javascript
     *   **Pros**:
         - Easy to get started right in the browser
         - Pervasive web programming
@@ -69,7 +70,7 @@ Here are our assessments of a few options:
         - Poor standards
         - Some complicated concepts required for break-through
         - Not as marketable on its own
-4)  Java
+4.  Java
     *   **Pros**:
         - Accessible language
         - Second only to python on marketability
@@ -79,7 +80,7 @@ Here are our assessments of a few options:
         - More cumbersome to do simple lessons (lots of objects and cruft)
         - Less quick and fun
         - More complicated to do simple graphics programming
-5)  C or C++
+5.  C or C++
     *   **Pros**:
         - How I learned!
         - Super powerful and good way to get deep understanding of how computers work
