@@ -21,7 +21,7 @@ the basic building blocks of computer science including
 *   141:  [Intro to Event Driven Programming](141.md)
 *   150:  [Agorithms:  Sorting and Speed](150.md)
 *   151:  [Encryption Algorithms](151.md)
-*   160:  [Intro to Data Analytics](#)
+*   160:  [Intro to Data Analytics](160.md)
 *   161:  [Open Data:  Aggregating and Graphing](#)
 *   170:  [Arduino: Startup Projects](#)
 *   201:  [Raspberry Pi:  Introduction to Linux](#)
