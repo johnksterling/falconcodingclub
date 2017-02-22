@@ -11,11 +11,19 @@ plain language. As with many languages Python uses '==' for comparison,
 since the '=' is reserved for assigning values to variables.
    ```python
 if name == 'John':
+<<<<<<< HEAD
     print('Welcome back, John!')
 else:
     print('Welcome to our site, {}'.format(name))
    ```
 
+=======
+     print('Welcome back, John!')
+ else:
+     print('Welcome to our site, {}'.format(name))
+   ```
+   
+>>>>>>> 2d7ae789aa644183b4a44fb4dab643ee7bd785b2
 ## Looping
 Looping is a common control structure that allows you to perform actions
 repeatedly.
@@ -27,6 +35,17 @@ for loop.  For loops can be used in many ways to loop across items:
 1. Loop a certain number of times using the 'in range' syntax.  This loops
 incrementing a counter, so printing the numbers 0 through 9:
    ```python
+<<<<<<< HEAD
+for i in range(10):
+    print(str(i))
+   ```
+
+2. You an loop across a list of items
+   ```python
+names = ['Bob', 'John', 'Joe']
+for name in names:
+    print('{}'.format(name))
+=======
  for i in range(10):
      print(str(i))
    ```
@@ -35,13 +54,7 @@ incrementing a counter, so printing the numbers 0 through 9:
  names = ['Bob', 'John', 'Joe']
  for name in names:
      print('{}'.format(name))
-   ```
-
-2. You an loop across a list of items
-   ```python
-names = ['Bob', 'John', 'Joe']
-for name in names:
-    print('{}'.format(name))
+>>>>>>> 2d7ae789aa644183b4a44fb4dab643ee7bd785b2
    ```
 
 ### While Loop
@@ -49,14 +62,22 @@ While loops are another kind of loop.  While loops loop while a condition
 is True.  So if you want to play a game until a user gets over 100 points:
 
    ```python
+<<<<<<< HEAD
+while total_points <= 100:
+    points = play_round()
+    # Note the line below uses shorthand += which is the same as
+    # total_points = total_points + points
+    total_points += points
+=======
  while total_points <= 100:
      points = play_round()
      # Note the line below uses shorthand += which is the same as
      # total_points = total_points + points
      total_points += points
+>>>>>>> 2d7ae789aa644183b4a44fb4dab643ee7bd785b2
    ```
 
-## Exercise
+##Exercise
 To put this all together we will implement a madlib.  What are the steps of
 building a madlib?  The students should be able to frame this up independently,
 but something like this:
