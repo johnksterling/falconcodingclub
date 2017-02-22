@@ -9,7 +9,7 @@ the basic building blocks of computer science including
 - Data Structures (arrays, dictionaries, sets, etc)
 - Algorithms (sorting, aggregating, step-by-step problem solutions)
 - Control Structures (decision-making, looping, and branching)
-
+## [About](about.md)
 ## [Initiation](initiation.md)
 ## [Tools of the Trade](tools.md)
 ## Lessons
