@@ -10,7 +10,7 @@ and fun projects. Sometimes we do classroom style learning, but most of the
 programming is taught 'on the job' - while solving fun problems.
 
 ## Code of Conduct
-The Falcon Coding Club is dedicated to providing a harassment-free conference
-experience for everyone, regardless of gender, sexual orientation, disability,
-physical appearance, body size, race, or religion. We do not tolerate harassment
-of conference participants in any form.
+The Falcon Coding Club is dedicated to providing a harassment-free environment
+for everyone, regardless of gender, sexual orientation, disability,
+physical appearance, body size, race, or religion.  We do not tolerate
+harassment of participants in any form.
