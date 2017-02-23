@@ -23,10 +23,12 @@ the basic building blocks of computer science including
 *   151:  [Encryption Algorithms](151.md)
 *   160:  [Intro to Data Analytics](160.md)
 *   161:  [Open Data:  Aggregating and Graphing](#)
+
+## Un-documented Projects We Have Done:
 *   170:  [Arduino: Startup Projects](#)
 *   201:  [Raspberry Pi:  Introduction to Linux](#)
 *   210:  [Running a Web Server](#)
 *   211:  [Dynamic Content on a Raspberry Pi](#)
 *   301:  [Python Django Introduction](#)
 *   310:  [Web Services:  Real Time Data](#)
-*   320:  [Advanced Analytics with Python](#)
+*   320:  [Advanced Analytics with Pandas](#)
